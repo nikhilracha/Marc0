@@ -3,6 +3,7 @@ dependencies: \
   /Users/alekya/Marc0/ios/Pods/Target\ Support\ Files/RNReanimated/RNReanimated-prefix.pch \
   /Users/alekya/Marc0/node_modules/react-native-reanimated/ios/Nodes/REAClockNodes.h \
   /Users/alekya/Marc0/node_modules/react-native-reanimated/ios/Nodes/REANode.h \
+  /Users/alekya/Marc0/node_modules/react-native-reanimated/ios/REAUtils.h \
   /Users/alekya/Marc0/node_modules/react-native-reanimated/ios/REANodesManager.h \
   /Users/alekya/Marc0/ios/Pods/Headers/Public/React-Core/React/RCTBridgeModule.h \
   /Users/alekya/Marc0/ios/Pods/Headers/Public/React-Core/React/RCTDefines.h \
@@ -30,4 +31,6 @@ dependencies: \
   /Users/alekya/Marc0/ios/Pods/Headers/Public/Yoga/yoga/YGValue.h \
   /Users/alekya/Marc0/ios/Pods/Headers/Public/React-Core/React/RCTEventDispatcher.h \
   /Users/alekya/Marc0/ios/Pods/Headers/Public/React-Core/React/UIView+React.h \
-  /Users/alekya/Marc0/ios/Pods/Headers/Public/React-Core/React/RCTComponent.h
+  /Users/alekya/Marc0/ios/Pods/Headers/Public/React-Core/React/RCTComponent.h \
+  /Users/alekya/Marc0/node_modules/react-native-reanimated/ios/Nodes/REAParamNode.h \
+  /Users/alekya/Marc0/node_modules/react-native-reanimated/ios/Nodes/REAValueNode.h

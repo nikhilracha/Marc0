@@ -6,7 +6,7 @@
 	<integer>10</integer>
 	<key>logs</key>
 	<dict>
-		<key>E03B06E9-37A6-4969-BFB9-405223F234B2</key>
+		<key>20865D2B-9338-401D-9267-C2F22CB61026</key>
 		<dict>
 			<key>className</key>
 			<string>IDECommandLineBuildLog</string>
@@ -15,7 +15,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>E03B06E9-37A6-4969-BFB9-405223F234B2.xcactivitylog</string>
+			<string>20865D2B-9338-401D-9267-C2F22CB61026.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -32,13 +32,47 @@
 			<key>signature</key>
 			<string>Building workspace marc0 with scheme marc0 and configuration Debug</string>
 			<key>timeStartedRecording</key>
-			<real>604814560.40650904</real>
+			<real>605480873.11715996</real>
 			<key>timeStoppedRecording</key>
-			<real>604814562.35158503</real>
+			<real>605480878.01213503</real>
 			<key>title</key>
 			<string>Building workspace marc0 with scheme marc0 and configuration Debug</string>
 			<key>uniqueIdentifier</key>
-			<string>E03B06E9-37A6-4969-BFB9-405223F234B2</string>
+			<string>20865D2B-9338-401D-9267-C2F22CB61026</string>
+		</dict>
+		<key>C8383F51-F5B8-41F8-80F6-28D1B0B3DCB0</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>C8383F51-F5B8-41F8-80F6-28D1B0B3DCB0.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>marc0 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>marc0</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building workspace marc0 with scheme marc0 and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>605481427.64943695</real>
+			<key>timeStoppedRecording</key>
+			<real>605481446.17599499</real>
+			<key>title</key>
+			<string>Building workspace marc0 with scheme marc0 and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>C8383F51-F5B8-41F8-80F6-28D1B0B3DCB0</string>
 		</dict>
 	</dict>
 </dict>
