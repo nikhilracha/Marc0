@@ -4,6 +4,7 @@ dependencies: \
   /Users/alekya/Marc0/node_modules/react-native-reanimated/ios/Nodes/REACallFuncNode.h \
   /Users/alekya/Marc0/node_modules/react-native-reanimated/ios/Nodes/REANode.h \
   /Users/alekya/Marc0/node_modules/react-native-reanimated/ios/Nodes/REAFunctionNode.h \
+  /Users/alekya/Marc0/node_modules/react-native-reanimated/ios/REAUtils.h \
   /Users/alekya/Marc0/node_modules/react-native-reanimated/ios/Nodes/REAParamNode.h \
   /Users/alekya/Marc0/node_modules/react-native-reanimated/ios/Nodes/REAValueNode.h \
   /Users/alekya/Marc0/node_modules/react-native-reanimated/ios/REANodesManager.h \

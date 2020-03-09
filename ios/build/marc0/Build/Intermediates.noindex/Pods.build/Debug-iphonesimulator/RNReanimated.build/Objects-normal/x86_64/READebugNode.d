@@ -3,6 +3,7 @@ dependencies: \
   /Users/alekya/Marc0/ios/Pods/Target\ Support\ Files/RNReanimated/RNReanimated-prefix.pch \
   /Users/alekya/Marc0/node_modules/react-native-reanimated/ios/Nodes/READebugNode.h \
   /Users/alekya/Marc0/node_modules/react-native-reanimated/ios/Nodes/REANode.h \
+  /Users/alekya/Marc0/node_modules/react-native-reanimated/ios/REAUtils.h \
   /Users/alekya/Marc0/node_modules/react-native-reanimated/ios/REANodesManager.h \
   /Users/alekya/Marc0/ios/Pods/Headers/Public/React-Core/React/RCTBridgeModule.h \
   /Users/alekya/Marc0/ios/Pods/Headers/Public/React-Core/React/RCTDefines.h \

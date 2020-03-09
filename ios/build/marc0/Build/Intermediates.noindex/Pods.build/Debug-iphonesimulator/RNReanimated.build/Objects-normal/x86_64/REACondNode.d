@@ -30,4 +30,5 @@ dependencies: \
   /Users/alekya/Marc0/ios/Pods/Headers/Public/Yoga/yoga/YGValue.h \
   /Users/alekya/Marc0/ios/Pods/Headers/Public/React-Core/React/RCTEventDispatcher.h \
   /Users/alekya/Marc0/ios/Pods/Headers/Public/React-Core/React/UIView+React.h \
-  /Users/alekya/Marc0/ios/Pods/Headers/Public/React-Core/React/RCTComponent.h
+  /Users/alekya/Marc0/ios/Pods/Headers/Public/React-Core/React/RCTComponent.h \
+  /Users/alekya/Marc0/node_modules/react-native-reanimated/ios/REAUtils.h
